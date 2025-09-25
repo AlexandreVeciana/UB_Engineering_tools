@@ -1,8 +1,0 @@
-{
-"python.defaultInterpreterPath": "C:\\Users\\marti\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
-"terminal.integrated.env.windows": {
-        "PATH": "C:\\Users\\marti\\AppData\\Local\\Microsoft\\WindowsApps\\;${env:PATH}"
-    },
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": [] 
-}
